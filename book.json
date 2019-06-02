@@ -1,0 +1,14 @@
+{
+    "description": "The learning note of accompaniment",
+    "title": "An Accompaniment Green Book",
+    "author": "Wenzhong",
+    "plugins": [
+        "katex",
+        "mcqx"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
+}
